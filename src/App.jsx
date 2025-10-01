@@ -10,7 +10,7 @@ import {About} from "./pages/About";
 import {Country} from "./pages/Country";
 import {Contact} from "./pages/Contact";
 import {ErrorMsg} from "./pages/ErrorMsg";
-import { CountryDetails } from "./component/Layout/CountryDetails";
+import {CountryDetails}  from "./component/layout/CountryDetails";
 
 
 const router = createBrowserRouter([
